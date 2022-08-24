@@ -10,6 +10,8 @@ This is an Inshorts Clone using ReactJS, Material-UI and News API
 
 - [News API](https://documenter.getpostman.com/view/3479169/Szf7zncp?version=latest#4e17258c-b76a-47ad-831a-33a4a871c9ed)
 
+Visit the website here https://main.d11b0ty1o74xew.amplifyapp.com/
+
 
 
 
