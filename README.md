@@ -1,3 +1,5 @@
+This is an Inshorts Clone using ReactJS, Material-UI and News API
+
 ![Inshorts-Clone](https://github.com/jatiinyadav/Inshorts-clone-ReactJs/blob/master/src/assets/inshorts-clone.png)
 
 <div align="center">
